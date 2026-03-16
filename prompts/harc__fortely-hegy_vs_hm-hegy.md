@@ -10,6 +10,7 @@ Modellezz egy harcot a Szilánk rendszerében.
 #### Főbb szabályok
 - költs el minden KP-t
 - legyenek színes karakterek
+- Tulajdonság értékek legyenek azonosak
 
 #### Fortélyos-Hegy
 
